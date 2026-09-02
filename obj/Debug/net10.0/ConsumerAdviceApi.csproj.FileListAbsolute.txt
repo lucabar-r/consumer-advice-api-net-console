@@ -1,0 +1,14 @@
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.exe
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.deps.json
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.runtimeconfig.json
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.pdb
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.AssemblyInfo.cs
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\refint\ConsumerAdviceApi.dll
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.pdb
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.genruntimeconfig.cache
+C:\Users\vuter\OneDrive\Área de Trabalho\Praticas\ConsumerAdviceApi\obj\Debug\net10.0\ref\ConsumerAdviceApi.dll
